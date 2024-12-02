@@ -1,0 +1,13 @@
+.idea
+.vs
+
+/**/bin/
+/**/obj/
+*.vspscc
+*.ncrunchsolution.*
+global.json
+/BuildArtifacts/
+*.feature.cs
+*.user
+Backend/plugins/
+*.runsettings
